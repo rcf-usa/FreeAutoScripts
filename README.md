@@ -11,3 +11,4 @@
   -- Many years Manual QA in many areas: Telecom, Unix Apps, Web, Medical, business systems, data base, back end, 
   -- front end, white box, black box
   -- If you have questions just ask
+  -- 10-11-18
